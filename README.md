@@ -2,8 +2,25 @@
 
 Backend / Data Developer in Progress | AML Analyst → Tech Transition  
 Building a structured path to relocate to Japan 🇯🇵 (2028)
+## ⚙️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=java,python,js,git,github,mysql,linux)
 
----
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 🏦 Domain Expertise
+![AML](https://img.shields.io/badge/AML-Transaction%20Monitoring-1E3A8A?style=for-the-badge)
+![KYC](https://img.shields.io/badge/KYC-Due%20Diligence-065F46?style=for-the-badge)
+![Risk](https://img.shields.io/badge/Risk-Analysis-7F1D1D?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-Regulatory-111827?style=for-the-badge)
+
+## 📊 Data & Tools
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-Basic-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🎯 Current Focus
+![Java](https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
 
